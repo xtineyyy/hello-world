@@ -1,0 +1,89 @@
+###### notes on writing style!! 
+### blog - terrence tao - 
+	Writing a paper
+		- Use the introduction to “sell” the key points of your paper; the results should be described accurately. One should also invest some effort in both organising and motivating the paper, and in particular in selecting good notation and giving appropriate amounts of detail. But one should not over-optimise the paper.
+		- It also assists readability if you factor the paper into smaller pieces, for instance by making plenty of lemmas.
+		- To reduce the time needed to write and organise a paper, I recommend writing a rapid prototype first.
+		- For first time authors especially, it is important to try to write professionally, and in one’s own voice. One should take advantage of the English language, and not just rely purely on mathematical symbols.
+		- The ratio between results and effort in one’s paper should be at a local maximum.
+### book - style towards clarity & grace
+
+Chapter 2 - clarity
+	Readers are likely to feel that they are reading prose that is dear and direct when - 
+	(1) the subjects of the sentences name the cast of characters,
+	and
+	(2) the verbs that go with those subjects name the crucial ac­tions those characters are part of.
+
+	Summing Up
+	1. Express actions and conditions in specific verbs, adverbs, or adjectives:
+	The intention of the committee is the improvement of morale. 
+	The committee intends to improve morale.
+	2. When appropriate, make the subjects of your verbs characters involved in those actions.
+	A decision on the part of the Dean about funding by the Depart­ment of its program must be made for there to be adequate staff preparation.
+	If the staff is to prepare adequately, the Dean must decide whether the Department will fund the program.
+
+Chapter 3 - Coherence 
+	We've illustrated two complementary principles of cohesion. One of them is this:
+		Put at the beginning of a sentence those ideas that you have al­ready mentioned, referred to, or implied, or concepts that you can reasonably assume your reader is already familiar with, and will readily recognize.
+	The other principle is this:
+		Put at the end of your sentence the newest, the most surprising, the most signi cant information: information that you want to stress-perhaps the information that you will expand on in your next sentence.
+
+	Summing Up
+	1. Generally, use the beginning of your sentences to refer to what you have already mentioned or knowledge that you can as­ sume you and your reader readily share. Compare these:
+		The huge number of wounded and dead in the Civil War exceeded all the other wars in American history. One of the reasons for the lingering animosity between North and South today is the mem­ory of this terrible ca age.
+		Of all the wars in American history, none has exceeded the Civil War in the huge number of wounded and dead. The memory of this terrible carnage is one of the reasons for the animosity be­ tween North and South today.
+
+	2. Choose topics that will control your reader's point of view. This will depend on how creatively you can use verbs to make one or another of your characters the seeming agent of an action.
+
+Chapter 4 - Emphasis (ending a sentence)
+	when you in­ troduce a technical term for the first time or even a familiar but very important term- design the sentence it appears in so that
+	you can locate that term at the end, in its stress, never at the be­ginning, in its topic, even if you have to invent a sentence simply for the sake of de ning or emphasizing that term.
+
+Chapter 5 - Coherence I
+	Principle 1: A cohesive paragraph has consistent topic strings.
+	Principle 2: A cohesive paragraph has another set of strings run­ning through 	it that we will call thematic strings.
+	Principle 3: A cohesive paragraph introduces new topic and the­ matic strings 	in a predictable location: at the end of the sentence(s) that introduce 	the paragraph. 
+	Principle 4: A coherent paragraph will usually have a single sen­tence that 
+		clearly articulates its point.
+	Principle5: A coherent paragraph will typically locate that point
+		sentence in one of two places.
+	- don't use too many different words for the same topic
+	- make sure your first few sentences clearly introduce what you're going to be discussing
+	- In short, if you write a passage that does not seem to hang together, seems uncentered or out of focus, you may have made a promise but didn't deliver, or you may have delivered on prom­ises you didn't make.
+	- Look at the discussion independently of the issue and ask what themes in fact the paragraph develops. Then revise the end of the issue to include any thematic strings that are present in and important to that particular discussion
+
+Chapter 6 - Coherence II
+	Principle 4: A reader will feel that a paragraph is coherent if she can read a sentence that specifically articulates its point.
+	- WHAT'S YOUR POINT?! and WHERE is it in the paragraph?!
+	Principle 5: A reader will feel at a paragraph is coherent if he finds the POINT sentence in one of two predictable places in a paragraph: (1) at the end of its issue, or (2) at the end of its discussion; i.e., at the end of the paragraph (or section or whole document).
+	- In fact, if the writer uses the paragraph to introduce a whole document, then she will predictably locate her POINT at the end of that
+	paragraph.
+	- The final point is not to make every paragraph a work of art. Art may be long, but life is too short. The point is to make these principles work together well enough so that you do not confuse your readers. Readers call writing clear not when it is clear, but when they have no reason to call it unclear. Which is to say, writ­ing usually seems clearest when readers are least conscious of it.
+	- put headings into your document: 
+		Now, if you could not quickly and confidently find those places where you would insert headings, you have a problem: you don't know where the major junctures are in your own document. If you can't identify them, neither will your readers.
+
+Chapter 7 - Concision
+	These two principles are easier to state than to follow.
+	1. Usually, compress what you mean into the fewest words.
+	2. Don't state what your reader can easily infer.
+
+	In fact, this kind of revision can reveal the absence of a point.
+		'In this report, I will analyze GM's tactics in its acquisition of do­ mestic suppliers.'
+	This revises into something fairly pointless.
+		'GM uses tactics when it acquires domestic suppliers.'
+
+Chapter 8 - Length
+	- pretty good on modifiers, and interruptors, and making long sentences clear & parallel
+	- come back to this for more tips
+
+Chapter 9 - elegance
+	- using similes and metaphors, emphasis and tonation - parallelism to make writing more graceful & elegant & INTERESTING.
+
+Chapter 10 - usage
+
+
+
+
+
+
+
